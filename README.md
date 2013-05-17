@@ -1,5 +1,9 @@
-curtainpolebracket
-==================
+Curtain Pole Bracket
+====================
 
-OpenSCAD design for a replacement curtainhole bracket, 
-just requires the addition of a coach bolt to complete.
+Description
+-----------
+
+OpenSCAD design for a replacement curtainhole bracket.
+
+Just requires the addition of a coach bolt to complete.
