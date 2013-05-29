@@ -1,3 +1,8 @@
+// curtainpolebracket.scad
+// Bracket for a curtain pole
+// 
+// Copyright 2013 Christopher Roberts
+
 // Global Parameters
 
 // Bracket
